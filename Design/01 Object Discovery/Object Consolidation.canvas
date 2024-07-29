@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"87757762701b6304","x":-350,"y":-304,"width":250,"height":60,"color":"5","type":"text","text":"Group"},
+		{"id":"b73d7652b7025ffa","x":-620,"y":-304,"width":250,"height":60,"color":"5","type":"text","text":"Chat"},
+		{"id":"db44fca446e85791","x":-620,"y":-224,"width":250,"height":60,"color":"5","type":"text","text":"Community"},
+		{"id":"1e3fb9d3c3404ca8","x":-350,"y":-224,"width":250,"height":60,"color":"5","type":"text","text":"Category"},
+		{"id":"d64b29810be2daf0","x":-620,"y":-144,"width":250,"height":60,"color":"5","type":"text","text":"Authentication System"},
+		{"id":"664315c46bb95b59","x":-350,"y":-144,"width":250,"height":60,"color":"5","type":"text","text":"Badge"},
+		{"id":"7df16335796402ad","x":-620,"y":-64,"width":250,"height":60,"color":"5","type":"text","text":"Role"},
+		{"id":"e6c724fb2401f7b9","x":-350,"y":-64,"width":250,"height":60,"color":"5","type":"text","text":"User"},
+		{"id":"6f80b3e49918075c","x":-350,"y":16,"width":250,"height":60,"color":"5","type":"text","text":"Tag"},
+		{"id":"917883d4552427fe","x":-620,"y":16,"width":250,"height":60,"color":"5","type":"text","text":"Topic"},
+		{"id":"f9ac71ffb4e309b3","x":-350,"y":96,"width":250,"height":60,"color":"5","type":"text","text":"Post"},
+		{"id":"1204ba6b86670f49","x":-620,"y":96,"width":250,"height":60,"color":"5","type":"text","text":"Category"},
+		{"id":"4ed633b601a587dd","x":-350,"y":176,"width":250,"height":60,"color":"5","type":"text","text":"Message"},
+		{"id":"cc02e12a7db072ed","x":-620,"y":176,"width":250,"height":60,"color":"5","type":"text","text":"Chat"},
+		{"id":"9ec333ca65deee1a","x":-80,"y":-64,"width":250,"height":60,"color":"5","type":"text","text":"Notification"},
+		{"id":"d25a1db9676f0a78","x":-80,"y":16,"width":250,"height":60,"color":"5","type":"text","text":"Discussion"},
+		{"id":"64e80f2ff0ba9bd0","x":-80,"y":-144,"width":250,"height":60,"color":"5","type":"text","text":"Like"},
+		{"id":"119444db484ecb20","x":-80,"y":-304,"width":250,"height":60,"color":"5","type":"text","text":"Trust Level"},
+		{"id":"d91a2b612664708c","x":-80,"y":176,"width":250,"height":60,"color":"5","type":"text","text":"Criterion"},
+		{"id":"02afe0e94f074969","x":-620,"y":256,"width":250,"height":60,"color":"5","type":"text","text":"Reply"},
+		{"id":"9079c50f763add31","x":-350,"y":256,"width":250,"height":60,"color":"5","type":"text","text":"Conversation"},
+		{"id":"b0b88eac445be308","x":-80,"y":256,"width":250,"height":60,"color":"5","type":"text","text":"Warning"},
+		{"id":"d7e15c7f62646065","x":190,"y":-144,"width":250,"height":60,"color":"5","type":"text","text":"Link"},
+		{"id":"1768cc515b42e7a5","x":190,"y":-64,"width":250,"height":60,"color":"5","type":"text","text":"Quote"},
+		{"id":"fc244cf64719d21e","x":190,"y":256,"width":250,"height":60,"color":"5","type":"text","text":"Mention"}
+	],
+	"edges":[]
+}
