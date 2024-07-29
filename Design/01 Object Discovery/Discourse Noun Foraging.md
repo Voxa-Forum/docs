@@ -9,7 +9,7 @@ Gather the nouns that will potentially be an object.
 
 List of places to look for nouns:
 - [ ] Case studies
-- [ ] Wikipedia articles on the domain
+- [x] Wikipedia articles on the domain
 - [ ] Marketing site
 - [ ] Comparative services or products. What would these be?
 - [x] YouTube videos about Discourse
